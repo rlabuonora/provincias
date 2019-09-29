@@ -1,7 +1,7 @@
 ---
-title: 'Chapter 1: Getting started'
+title: 'Capítulo 1: Empezando'
 description:
-  'This chapter will teach you about many cool things and introduce you to the
+  'Este capítulo es el primer capítulo
   most important concepts of the course.'
 prev: null
 next: /chapter2
@@ -16,7 +16,7 @@ id: 1
 
 </exercise>
 
-<exercise id="2" title="Getting Started">
+<exercise id="2" title="Empezando">
 
 Let's ask some questions about the slides. Whats the correct answer?
 
